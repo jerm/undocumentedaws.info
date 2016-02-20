@@ -8,19 +8,12 @@ been written yet.
 Services
 ========
 
-And eere is some simple text explaining complicated shit::
-
-    print 'hello'
-    >> helllo
-
-Guide
-^^^^^
-
 .. toctree::
    :maxdepth: 2
 
    Route53
    KMS
+
    license
    help
 
