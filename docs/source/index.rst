@@ -13,6 +13,7 @@ Services
 
    Route53
    KMS
+   IAM
 
    license
    help
