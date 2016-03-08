@@ -25,5 +25,5 @@ SOFTWARE.
 
 Contact
 =======
-Questions? Please contact @jermops
+Questions? Please contact @jermops on the twitters or jerm on github
 
