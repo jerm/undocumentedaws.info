@@ -23,6 +23,5 @@ Administrative Doodads
    
    contact
    license
-   help
 
 
