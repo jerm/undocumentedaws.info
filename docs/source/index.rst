@@ -15,14 +15,12 @@ Services
    KMS
    IAM
 
+Administrative Doodads
+.. toctree::
+   :maxdepth: 2
+   
+   contact
    license
    help
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
